@@ -2,16 +2,7 @@
 
 A complete toolkit for cleaning Star Citizen cache with digital signing and automated launcher functionality.
 
-<img
-          src="Screenshot 2025-08-17 124745.png"
-          alt="Click me"
-          title="Click me"
-          style="padding: 15px 15px 15px;  
-                 background-color: white;
-                 box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); 
-                   -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4); 
-                   -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
-            ">
+<img src="Screenshot 2025-08-17 124745.png" >
 
 ## 📥 Download
 
