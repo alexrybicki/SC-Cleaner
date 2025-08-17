@@ -22,9 +22,9 @@ This smart launcher automatically:
 ## 📁 What's Included
 
 ### Main Files (Use These)
-- **`[RunCacheCleaner.bat](https://github.com/alexrybicki/SC-Cleaner/blob/main/RunCacheCleaner.bat)`** - Smart launcher with automatic certificate handling
-- **`[StarCitizenCacheCleaner.ps1](https://github.com/alexrybicki/SC-Cleaner/blob/main/StarCitizenCacheCleaner.ps1)`** - Main PowerShell script (digitally signed)
-- **`[PowerShellCodeSigning.cer](https://github.com/alexrybicki/SC-Cleaner/blob/main/PowerShellCodeSigning.cer)`** - Digital certificate for script verification
+- **[RunCacheCleaner.bat](https://github.com/alexrybicki/SC-Cleaner/blob/main/RunCacheCleaner.bat)** - Smart launcher with automatic certificate handling
+- **[StarCitizenCacheCleaner.ps1](https://github.com/alexrybicki/SC-Cleaner/blob/main/StarCitizenCacheCleaner.ps1)** - Main PowerShell script (digitally signed)
+- **[PowerShellCodeSigning.cer](https://github.com/alexrybicki/SC-Cleaner/blob/main/PowerShellCodeSigning.cer)** - Digital certificate for script verification
 
 ## 🛠️ Advanced Usage
 
