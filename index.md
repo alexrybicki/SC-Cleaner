@@ -2,6 +2,17 @@
 
 A complete toolkit for cleaning Star Citizen cache with digital signing and automated launcher functionality.
 
+<img
+          src="Screenshot 2025-08-17 124745.png"
+          alt="Click me"
+          title="Click me"
+          style="padding: 15px 15px 15px;  
+                 background-color: white;
+                 box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); 
+                   -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4); 
+                   -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+            ">
+
 ## 📥 Download
 
 **[Download Star Citizen Cache Cleaner v2.0](https://sc.rybicki.dev/Star%20Citizen%20Cache%20Cleaner.zip)**
