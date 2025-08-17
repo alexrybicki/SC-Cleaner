@@ -66,7 +66,7 @@ To use on another computer, copy these 3 essential files:
 - **Created:** August 17, 2025
 - **Author:** [Xzor](https://robertsspaceindustries.com/en/citizens/Xzor)
 - **Version:** 2.0
-- **Github** [https://github.com/alexrybicki/SC-Cleaner](https://github.com/alexrybicki/SC-Cleaner)
+- **Github** [SC-Cleaner](https://github.com/alexrybicki/SC-Cleaner)
 
 ---
 
