@@ -1,2 +1,2 @@
 remote_theme: alexrybicki/dark_slate
-plugins: jekyll-seo-tag
+plugins: [plugins_dir]
