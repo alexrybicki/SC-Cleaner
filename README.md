@@ -4,7 +4,7 @@ A complete toolkit for cleaning Star Citizen cache with digital signing and auto
 
 ## 📥 Download
 
-**[Download Star Citizen Cache Cleaner v2.0](https://sc.rybicki.dev/Star%20Citizen%20Cache%20Cleaner.zip)**
+**[Download Star Citizen Cache Cleaner v2.0](https://github.com/alexrybicki/SC-Cleaner/blob/gh-pages/Star%20Citizen%20Cache%20Cleaner.zip)**
 
 Get the complete toolkit including all necessary files and certificates.
 
@@ -68,3 +68,4 @@ To use on another computer, copy these 3 essential files:
 ---
 
 *Keep your Star Citizen installation running smoothly with automated cache management.*
+
