@@ -70,9 +70,8 @@ To use on another computer, copy these 3 essential files:
 ## 📝 About
 
 - **Created:** August 17, 2025
-- **Author:** [Xzor](https://robertsspaceindustries.com/en/citizens/Xzor)
+- **Author:** [Xzor](https://xzor.dev)
 - **Version:** 2.0
-- **Github** [SC-Cleaner](https://github.com/alexrybicki/SC-Cleaner)
 
 ---
 
