@@ -4,7 +4,8 @@
 <img src="Screenshot 2025-08-17 124745.png" >
 
 A complete toolkit for cleaning Star Citizen cache with digital signing and automated launcher functionality.
-This is not meant to be taken seriously, nevertheless it is very functional. More of a proof of concept.
+This is not meant to be taken seriously, nevertheless it is very functional. More of a proof of concept, and personal coding challenge.
+
 The 'SC launcher' now includes this functionality, and is the prefered method. 
 
 This script does not modify any Star Citizen files or RAM. It simply moves the cache files to the recycle bin. That's it!
