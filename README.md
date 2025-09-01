@@ -1,6 +1,9 @@
 # Star Citizen Cache Cleaner v2.0
 
 A complete toolkit for cleaning Star Citizen cache with digital signing and automated launcher functionality.
+This is not meant to be taken seriously, but is very functional. More of a proof of concept.
+The SC launcher Now includes this functionality, and is the prefered method.
+This script does not modify and Star Citizen files. It simply moves the cashe files to the recycle bin. That's it!
 
 ## 📥 Download
 
@@ -68,4 +71,5 @@ To use on another computer, copy these 3 essential files:
 ---
 
 *Keep your Star Citizen installation running smoothly with automated cache management.*
+
 
